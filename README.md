@@ -1,15 +1,17 @@
 # Welcome to My Profile
 
-This is my GitHub profile repository!
+Hi, I am Ogunniyi Joseph Olawale 
 
 ## About Me
-Add information about yourself here.
+
+I am an aspiring front end developer, and an undergraduate 
 
 ## Projects
-- List your projects here
+- https://opay-clone2-95za.vercel.app/
 
 ## Contact
-- Add your contact information
+-https://x.com/josephlekan102
+josephlekan101@gmail.com
 
 ## Skills
-- Add your skills here
+- HTML|| CSS || Actively Learning JavaScript 
