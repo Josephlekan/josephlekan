@@ -27,7 +27,7 @@ My goal is to design **working, user-friendly systems** that simplify user exper
 
 | Project | Description | Stack |
 |-------------|----------------|-----------|
-| [**Staking dApp**](https://github.com/DeborahOlaboye/staking-dApp) | Token staking system with interactive dashboard and smart contract integration | Solidity • Hardhat • React |
+| [**A payment interface**](https://github.com/josephlekan/Opay-clone) | A mobile payment interface, using DOM, settimeout(), and other features of JavaScript | HTML • CSS • JAVASCRIPT |
 | [**DAO Contract Suite**](https://github.com/DeborahOlaboye/DAOContract) | Modular DAO governance system for proposal management and voting | Solidity |
 
 ---
