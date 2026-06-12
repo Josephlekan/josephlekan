@@ -28,29 +28,16 @@ My goal is to design **working, user-friendly systems** that simplify user exper
 | Project | Description | Stack |
 |-------------|----------------|-----------|
 | [**A payment interface**](https://github.com/josephlekan/Opay-clone) | A mobile payment interface, using DOM, settimeout(), and other features of JavaScript | HTML • CSS • JAVASCRIPT |
-| [**DAO Contract Suite**](https://github.com/DeborahOlaboye/DAOContract) | Modular DAO governance system for proposal management and voting | Solidity |
+| [**Amazon e-commerce website**](https://github.com/josephlekan/exercises-javascript-amazon-project) | Working on the functionality of the Amazon e-commerce "Adding to cart" and "Cart summary" interface  | Javascript |
 
 ---
 
-## Highlights & Achievements
-
-- Delivered merged contributions to core open-source infrastructure projects:
-  - **JupyterLab** — Enhancing the interactive computing platform used globally for data science & research  
-  - **Ray** — Strengthening distributed computing and scalable AI infrastructure (multiple merged PRs)  
-  - **Microsoft LightGBM** — Improving high-performance gradient boosting for production ML systems  
-  - **OpenWRT LuCI** — Advancing open-source networking and embedded systems interfaces  
-
-- Contributed to Ethereum Execution Layer Specs — Supporting protocol-level improvements in blockchain infrastructure  
-
-- Active contributor across AI, distributed systems, networking, and decentralized technologies
-
----
 
 ## GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOlaboye&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephlekan&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800)
 
 </div>
 
