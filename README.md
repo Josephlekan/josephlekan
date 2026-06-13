@@ -4,7 +4,7 @@
 # Hi, I’m **Ogunniyi Joseph Olawale**
 
 ### Front-end developer  
-_Building secure, scalable, and open decentralized systems — from smart contracts to protocol specs._
+_Writing secure, scalable, and codes that work!!!._
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-josephlekan-black?style=flat&logo=github)](https://github.com/josephlekan)
