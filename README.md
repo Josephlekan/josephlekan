@@ -18,9 +18,9 @@ _Writing secure, scalable, and codes that work!!!._
 ## About Me
 
 I’m a passionate **Front end Developer** with hands-on experience building simple Front end websites.  
-My goal is to design **working, user-friendly systems** that simplify user experience.
+My goal is to design **working, user-friendly systems** that simplify user experience using HTML, CSS and JavaScript.
 
-**Languages & Tools:** HTML • CSS  • Actively JavaScript 
+**Languages & Tools:** HTML • CSS  • Actively learning JavaScript 
 
 
 ## Featured Projects
@@ -30,8 +30,8 @@ My goal is to design **working, user-friendly systems** that simplify user exper
 | [**Youtube interface**](https://github.com/josephlekan/youtube-clone) | A mobile interface of a youTube page | HTML • CSS|
 | [**Todo List**](https://github.com/josephlekan/To-do-list) | A Todo List interface | HTML • CSS • JS|
 | [**Rock-Paper-Scissors**](https://github.com/josephlekan/To-do-list) | A Rock-Paper-Scissors Game | HTML • CSS • JS|
-| [**A payment interface**](https://github.com/josephlekan/Opay-clone) | A mobile payment interface, using DOM, settimeout(), and other features of JavaScript | HTML • CSS • JAVASCRIPT |
-| [**Amazon e-commerce website**](https://github.com/josephlekan/exercises-javascript-amazon-project) | Working on the functionality of the Amazon e-commerce "Adding to cart" and "Cart summary" interface  | Javascript |
+| [**A payment interface**](https://github.com/josephlekan/Opay-clone) | A mobile payment interface, using DOM, settimeout(), and other features of JavaScript | HTML • CSS • JS |
+| [**Amazon e-commerce website**](https://github.com/josephlekan/exercises-javascript-amazon-project) | Working on the functionality of the Amazon e-commerce "Adding to cart" and "Cart summary" interface  | JS |
 
 ---
 
